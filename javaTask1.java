@@ -15,7 +15,9 @@ public class javaTask1 {
         System.out.println("Вторая запись");
         System.out.println("Третья запись");
     }
-    static void alexGroup3(){
-        System.out.println("Четвертая запись");
+    static void alexGroup3(){ System.out.println("Четвертая запись");
+    }
+    static void alexGroup4 () {
+        System.out.println("А та запись вообще не должна быть на сервере в ответах");
     }
 }
